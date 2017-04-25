@@ -13,8 +13,8 @@
 <tspan x="10" y="170">  ├── buffer-crc32@0.2.13 </tspan>
 <tspan x="10" y="186">  ├─┬ buffermaker@1.2.0 </tspan>
 <tspan x="10" y="202">  │ └── long@1.1.2 </tspan>
-<tspan x="10" y="218">  ├─┬ debug@2.6.3 </tspan>
-<tspan x="10" y="234">  │ └── ms@0.7.2 </tspan>
+<tspan x="10" y="218">  ├─┬ debug@2.6.4 </tspan>
+<tspan x="10" y="234">  │ └── ms@0.7.3 </tspan>
 <tspan x="10" y="250">  ├── lodash@4.17.4 </tspan>
 <tspan x="10" y="266">  ├─┬ minimatch@3.0.3 </tspan>
 <tspan x="10" y="282">  │ └─┬ brace-expansion@1.1.7 </tspan>
@@ -44,7 +44,7 @@
 <tspan x="10" y="666">  │   ├─┬ nopt@3.0.6 </tspan>
 <tspan x="10" y="682">  │   │ └── abbrev@1.1.0 </tspan>
 <tspan x="10" y="698">  │   ├─┬ npmlog@3.1.2 </tspan>
-<tspan x="10" y="714">  │   │ ├─┬ are-we-there-yet@1.1.2 </tspan>
+<tspan x="10" y="714">  │   │ ├─┬ are-we-there-yet@1.1.4 </tspan>
 <tspan x="10" y="730">  │   │ │ ├── delegates@1.0.0 </tspan>
 <tspan x="10" y="746">  │   │ │ └─┬ readable-stream@2.2.9 </tspan>
 <tspan x="10" y="762">  │   │ │   ├── buffer-shims@1.0.0 </tspan>
